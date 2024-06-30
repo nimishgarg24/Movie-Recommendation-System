@@ -25,3 +25,4 @@ Streamlit, Python, Content based Filtering Algorithms, ML Libraries, Google cola
 
 ![image](https://github.com/nimishgarg24/Movie-Recommendation-System/assets/118631488/7e68e52d-b63c-4f88-9769-4d508e440a4c)
 
+![image](https://github.com/nimishgarg24/Movie-Recommendation-System/assets/118631488/f30e981b-5c92-4e5a-9108-409d3266d9e3)
